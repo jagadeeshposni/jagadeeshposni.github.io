@@ -3,9 +3,7 @@ main:
     url: /posts/
   - title: "about"
     url: /about/
-  - title: "recruiter"
+  - title: "i'm a recruiter"
     url: /recruiter
-  - title: "résumé"
-    url: /resume/
-  - title: "photography"
+  - title: "hobby"
     url: /photography/

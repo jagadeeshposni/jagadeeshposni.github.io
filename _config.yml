@@ -67,6 +67,9 @@ author:
     - label: "london, UK"
       icon: "fas fa-fw fa-map-marker-alt"
       url: "https://"  
+    - label: "jags1285@hotmail.com"
+      icon: "fas fa-fw fa-envelope"
+      url: mailto:jags1285@hotmail.com
     - label: "twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/jagadeeshposni"
