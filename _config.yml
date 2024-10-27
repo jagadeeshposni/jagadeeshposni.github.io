@@ -64,10 +64,8 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "design, develop, deploy, but first coffee! కృషి తో నాస్తి దుర్భిక్షం "
   location: "London, UK"
+  email: "jagadeeshposni@gmail.com"
   links:
-    - label: "jags1285@hotmail.com"
-      icon: "fas fa-fw fa-envelope"
-      url: mailto:jags1285@hotmail.com
     - label: "twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/jagadeeshposni"

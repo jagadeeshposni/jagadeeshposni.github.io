@@ -25,15 +25,15 @@ I mean think about it how often do we stick to what we know because it feels saf
 
 so how do we incorporate this unlearning and relearning in our daily lives I’ve been experimenting with a few things that have really helped me
 
-    Question Everything: start by asking yourself why you do what you do why do I write code this way why do I have this routine what if I tried it a different way what assumptions am I holding onto that might not be true anymore this curiosity opens doors
+Question Everything: start by asking yourself why you do what you do why do I write code this way why do I have this routine what if I tried it a different way what assumptions am I holding onto that might not be true anymore this curiosity opens doors
 
-    Seek Feedback: getting input from others is gold it can be hard to see our blind spots but others can help shine a light on what we might need to let go of or change I’ve started sharing my work more often and the feedback has pushed me to rethink and relearn some approaches I was too attached to
+Seek Feedback: getting input from others is gold it can be hard to see our blind spots but others can help shine a light on what we might need to let go of or change I’ve started sharing my work more often and the feedback has pushed me to rethink and relearn some approaches I was too attached to
 
-    Embrace Failure: it’s scary but failing is part of the process it’s how we learn and grow so when something doesn’t work out instead of beating myself up I try to analyze what went wrong what can I learn from this and how can I adjust my approach next time
+Embrace Failure: it’s scary but failing is part of the process it’s how we learn and grow so when something doesn’t work out instead of beating myself up I try to analyze what went wrong what can I learn from this and how can I adjust my approach next time
 
-    Stay Curious: make it a habit to explore new tools languages techniques whatever interests you don’t just stick to what’s comfortable go out there and try things that might not make sense at first and see how they can reshape your thinking
+Stay Curious: make it a habit to explore new tools languages techniques whatever interests you don’t just stick to what’s comfortable go out there and try things that might not make sense at first and see how they can reshape your thinking
 
-    Reflect Regularly: take time to look back on your experiences what worked what didn’t what did you learn what do you need to unlearn and how can you keep that cycle going keeping a journal helps me track my thoughts and progress
+Reflect Regularly: take time to look back on your experiences what worked what didn’t what did you learn what do you need to unlearn and how can you keep that cycle going keeping a journal helps me track my thoughts and progress
 
 I think that’s what it comes down to really this journey of unlearning and relearning isn’t a destination it’s an ongoing process kind of like coding itself always evolving always changing and honestly it feels empowering to know that I can let go of old patterns and embrace new ones it’s like leveling up in a game or finding a new hack that makes everything smoother
 

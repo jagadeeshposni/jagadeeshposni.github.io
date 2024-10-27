@@ -1,3 +1,7 @@
+---
+classes: wide
+
+---
 ## Problems Caused by Lack of Co-loading in Courier Vehicles
 
 Courier services play a crucial role in our modern society, ensuring the timely delivery of goods and documents. However, the lack of co-loading, where multiple deliveries are consolidated into a single vehicle, can lead to several environmental problems. 
