@@ -63,11 +63,8 @@ author:
   name   : "jagadeesh posni"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "design, develop, deploy, but first coffee! కృషి తో నాస్తి దుర్భిక్షం "
-  location: "london, UK"
+  location: "London, UK"
   links:
-    - label: "london, UK"
-      icon: "fas fa-fw fa-map-marker-alt"
-      url: "https://"  
     - label: "jags1285@hotmail.com"
       icon: "fas fa-fw fa-envelope"
       url: mailto:jags1285@hotmail.com
@@ -78,18 +75,6 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jagadeeshposni"
     - label: "instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/nerd__next__door/"
-
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/jagadeeshposni"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jagadeeshposni"
-    - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/nerd__next__door/"
 
