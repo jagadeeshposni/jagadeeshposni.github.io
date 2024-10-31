@@ -1,0 +1,12 @@
+# the masthead
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Resume"
+    url: /assets/docs/jags_senior_engineer.pdf
+  - title: "Gallery"
+    url: /gallery/
+  # - title: "Blog"
+  #   url: /blog/
