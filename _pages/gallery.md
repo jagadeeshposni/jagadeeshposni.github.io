@@ -1,11 +1,9 @@
 ---
-layout: default
-author_profile: true
-images:
-  - image_path: /images/IMG_0764.jpeg
-    title: Krishna River
-  - image_path: /images/IMG_5440.jpeg
-    title: Waverock
+title: " "
+header:
+  overlay_image: /assets/images/exmoor_national_park.jpg
+  caption: "[Exmoor National Park](https://www.nationalparks.uk/park/exmoor/)"
+permalink: /gallery/
 ---
 <!-- <ul class="photo-gallery">
     {% for image in page.images %}

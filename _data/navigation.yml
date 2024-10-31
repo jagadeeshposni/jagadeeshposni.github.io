@@ -7,6 +7,6 @@ main:
   - title: "Resume"
     url: /assets/docs/jags_senior_engineer.pdf
   - title: "Gallery"
-    url: /gallery
+    url: /gallery/
   # - title: "Blog"
   #   url: /blog/
