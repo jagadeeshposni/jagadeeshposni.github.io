@@ -10,6 +10,7 @@ tags:
   - travel
 ---
 
+A collection of some of the beautiful towns I have visited in England.
 
 Starting with the banner image - Exmoor National Park.
 
