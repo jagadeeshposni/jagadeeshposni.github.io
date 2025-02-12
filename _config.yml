@@ -1,7 +1,7 @@
 title: "jagadeesh.co.uk"
 name: "jagadeesh.co.uk"
 email: jagadeeshposni@gmail.com
-url: "http://jagadeeshposni.github.io"
+url: "https://jagadeesh.co.uk"
 repository: "jagadeeshposni/jagadeeshposni.github.io"
 
 include:
@@ -28,7 +28,7 @@ minimal_mistakes_skin: "dirt"
 author:
   name   : "Jagadeesh Posni"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "I have started this blog to document some of my thoughts life, computing, photography. As it turns out writing requires a deep clarity of thought and perseverant effort. For now, I focus on improving the consistency factor."
+  bio    : "Thoughts on life, computing, photography and a bit of everything else. Keeping it simple."
   
 
   location: "London, UK"
