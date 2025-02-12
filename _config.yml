@@ -68,7 +68,7 @@ defaults:
   - scope:
       type: posts
     values:
-      toc: true
+      toc: false
       toc_label: "Contents"
       read_time: false
       comments: true
