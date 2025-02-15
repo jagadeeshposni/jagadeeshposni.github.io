@@ -10,9 +10,6 @@ tags:
   - notes
 ---
 
-
-# Notes from Paul Graham's essay - How to do great work
-
 You have to be really ambitious in life to do great work.
 
 ## First step - Decide what to work on 
