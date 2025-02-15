@@ -45,3 +45,7 @@ Dont underestimate the power of consistency. If you write one page a day you wil
 
 Style is doing things in a different way without trying to. Trying to is affectation(pretentious)
 
+
+Avoid affectation -> By being earnest -> By being intellectually honest -> Maintain a slight pressure in opposite direction. Start agreeing that you are mistaken when you are mistaken.
+
+Talking or writing about things you are interested in is a good way to generate new ideas.
