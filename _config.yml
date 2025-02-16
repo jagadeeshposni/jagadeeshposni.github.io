@@ -71,7 +71,7 @@ defaults:
       toc: false
       toc_label: "Contents"
       read_time: false
-      comments: true
+      comments: false
   # portfolio
   - scope:
       path: ""

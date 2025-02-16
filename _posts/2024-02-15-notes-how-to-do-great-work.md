@@ -48,4 +48,12 @@ Style is doing things in a different way without trying to. Trying to is affecta
 
 Avoid affectation -> By being earnest -> By being intellectually honest -> Maintain a slight pressure in opposite direction. Start agreeing that you are mistaken when you are mistaken.
 
-Talking or writing about things you are interested in is a good way to generate new ideas.
+Talking or writing about things you are interested in is a good way to generate new ideas. When an idea seems obvious and novel, it's a probably a good one.
+
+There is nothing bad with copying ideas. You learn better by reproducing someone else's work.
+
+Arguably, the best line in the whole essay - ** Copying doesn't necessarily make your work unoriginal. Originality is the presence of new ideas, not the absence of old one **
+
+Nurture and protect your morale like a living organism
+
+Doing great work is depth first search. The root node is the desire to do great work. If you don't succeed, backtrack and try again(as opposed to try and try again until you succeed)
