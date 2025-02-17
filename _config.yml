@@ -37,10 +37,10 @@ author:
   email  : jagadeeshposni@gmail.com
 
 # # comments by disqus
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "jags-com"
+# comments:
+#   provider: "disqus"
+#   disqus:
+#     shortname: "jags-com"
 
 # analytics:
 #   provider: "google"
